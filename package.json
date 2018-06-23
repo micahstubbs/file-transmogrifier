@@ -1,0 +1,10 @@
+{
+  "name": "file-transmogrifier",
+  "version": "1.0.0",
+  "description": "a magic box of nodejs file transformation utilities",
+  "main": "index.js",
+  "repository": "git@github.com:micahstubbs/file-transmogrifier.git",
+  "author": "Micah Stubbs <micah.stubbs@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
