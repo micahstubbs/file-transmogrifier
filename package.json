@@ -6,5 +6,8 @@
   "repository": "git@github.com:micahstubbs/file-transmogrifier.git",
   "author": "Micah Stubbs <micah.stubbs@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "csv-write-stream": "^2.0.0"
+  }
 }
